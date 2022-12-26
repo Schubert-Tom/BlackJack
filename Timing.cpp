@@ -21,7 +21,7 @@ Game Constants
 #define SPLIT_AFTER_SPLIT false
 #define BJ_PROOF_IMMEDIATELY_ON_ACE true
 #define HIT_ON_SPLIT_ACES false
-#define DECKS 8
+#define DECKS 1
 #define BlackJackPayout 1.5
 #define CALCSPLIT true
 #define FULLDECK DECKS * 52
