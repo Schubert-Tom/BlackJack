@@ -8,7 +8,7 @@ parameters.
 Through counting the dealt cards and observing the distribution of still available cards a player can minimize the dealers advantage and maybe even 
 tilt it in his favor.
 
-## Prototype 
+## Python Prototype 
 
 The prototype of the calculation is written in python and does implement a recursive depth first search probability tree traversal.
 Hands and available card distributions are represented by a class.
@@ -51,5 +51,5 @@ More efficient computations do apply simplifications like a constant distributio
 This software should bot be used to play against casinos for two reasons.
 
 1. The calculation does need too much time for proper a proper game integration
-2. No Warranty for the correctness of the calculation and according recommandation
+2. No warranty for the correctness of the calculation and according recommandation
 3. The casion always wins
